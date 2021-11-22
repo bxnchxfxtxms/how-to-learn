@@ -299,20 +299,11 @@
 }
 
 .footer__column-links {
-  font-weight: normal;
-  line-height: 30px;
-  font-size: 18px;
-}
-
-.footer__column-link {
-  font-weight: normal;
-  line-height: 30px;
-  font-size: 18px;
-}
-
-.footer__column-links {
   color: white;
   text-decoration: none;
+  font-weight: normal;
+  line-height: 30px;
+  font-size: 18px;
 }
 
 .footer__columns_content_info {

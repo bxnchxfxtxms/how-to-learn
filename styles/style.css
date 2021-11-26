@@ -171,7 +171,7 @@
 }
 
 .table__text {
-  margin-bottom: 20px;
+  margin-bottom: 0 0 20px 0;
   line-height: 1.2;
   font-size: 18px;
   font-weight: normal;
@@ -271,6 +271,7 @@
   color: white;
   padding-top: 60px;
   padding-bottom: 40px;
+  box-sizing: border-box;
 }
 
 .footer__columns {
@@ -292,7 +293,7 @@
 }
 
 .footer__column-heading {
-  margin-bottom: 20px;
+  margin: 0 0 20px 0;
   font-weight: bold;
   line-height: 30px;
   font-size: 18px;
